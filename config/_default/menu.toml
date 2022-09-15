@@ -22,3 +22,11 @@ url = "https://twitter.com"
 
 [social.params]
 icon = "brand-twitter"
+
+[[social]]
+identifier = "linkedin"
+name = "Linkedin"
+url = "https://www.linkedin.com/in/rayzhang007330/"
+
+[social.params]
+icon = "brand-linkedin"
