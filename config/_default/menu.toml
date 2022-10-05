@@ -10,18 +10,10 @@
 [[social]]
 identifier = "github"
 name = "GitHub"
-url = "https://github.com/CaiJimmy/hugo-theme-stack"
+url = "https://github.com/ray007330"
 
 [social.params]
 icon = "brand-github"
-
-[[social]]
-identifier = "twitter"
-name = "Twitter"
-url = "https://twitter.com"
-
-[social.params]
-icon = "brand-twitter"
 
 [[social]]
 identifier = "linkedin"
@@ -30,3 +22,19 @@ url = "https://www.linkedin.com/in/rayzhang007330/"
 
 [social.params]
 icon = "brand-linkedin"
+
+[[social]]
+identifier = "facebook"
+name = "Facebook"
+url = "https://www.facebook.com/ray.zhang.50/"
+
+[social.params]
+icon = "brand-facebook"
+
+[[social]]
+identifier = "instagram"
+name = "instagram"
+url = "https://www.instagram.com/ray_zhang.___/"
+
+[social.params]
+icon = "brand-instagram"
