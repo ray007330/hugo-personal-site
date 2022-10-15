@@ -11,7 +11,7 @@ menu:
         weight: -90
         params:
             icon: user
-comments: disable
+comments: false
 ---
 
 ![Life](ray_with_food.jpg)![Engineering](ray_with_microsoft.jpg)![Magic](ray_magic.jpg)
