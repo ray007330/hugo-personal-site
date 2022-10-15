@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pages on Yung-Chen (Ray) Chang</title><link>https://ray007330.github.io/page/</link><description>Recent content in Pages on Yung-Chen (Ray) Chang</description><generator>Hugo -- gohugo.io</generator><language>zh-tw</language><lastBuildDate>Tue, 04 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://ray007330.github.io/page/index.xml" rel="self" type="application/rss+xml"/><item><title>About</title><link>https://ray007330.github.io/about/</link><pubDate>Tue, 04 Oct 2022 00:00:00 +0000</pubDate><guid>https://ray007330.github.io/about/</guid><description>&lt;p>&lt;img src="https://ray007330.github.io/about/ray_with_food.jpg"
+width="960"
+height="1280"
+srcset="https://ray007330.github.io/about/ray_with_food_hu5db35207a0dc146c5c262ac5e735e1cf_302989_480x0_resize_q75_box.jpg 480w, https://ray007330.github.io/about/ray_with_food_hu5db35207a0dc146c5c262ac5e735e1cf_302989_1024x0_resize_q75_box.jpg 1024w"
+loading="lazy"
+alt="Life"
+class="gallery-image"
+data-flex-grow="75"
+data-flex-basis="180px"
+>&lt;img src="https://ray007330.github.io/about/ray_with_microsoft.jpg"
+width="1280"
+height="960"
+srcset="https://ray007330.github.io/about/ray_with_microsoft_huea64bcb3624bc0656582449480ccc496_261579_480x0_resize_q75_box.jpg 480w, https://ray007330.github.io/about/ray_with_microsoft_huea64bcb3624bc0656582449480ccc496_261579_1024x0_resize_q75_box.jpg 1024w"
+loading="lazy"
+alt="Engineering"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+>&lt;img src="https://ray007330.github.io/about/ray_magic.jpg"
+width="3543"
+height="4724"
+srcset="https://ray007330.github.io/about/ray_magic_hua57d5853290f775049914f135d92b41e_5739096_480x0_resize_q75_box.jpg 480w, https://ray007330.github.io/about/ray_magic_hua57d5853290f775049914f135d92b41e_5739096_1024x0_resize_q75_box.jpg 1024w"
+loading="lazy"
+alt="Magic"
+class="gallery-image"
+data-flex-grow="75"
+data-flex-basis="180px"
+>&lt;/p>
+&lt;p>Yung-Chen (Ray) Chang got his B.S. degree in Engineering Sciencce and Ocean Engineering (ESOE) at National Taiwan University. Then he finished his M.S. degree in Computer Science and Information Engineering (CSIE) at National Taiwan University. He was a former RD intern for test automation and lab system in Microsoft Cloud Hardware Infrastructure Engineering (CHIE), and a former NLP intern for chatbot algorithm in Thinkpower Information.&lt;/p>
+&lt;p>Besides engineering, he loves magic and was a member of NTU Magic Club. He was responsible for teaching magic tricks to freshmans and was a performer in 22nd NTU Magic Night with other members at that time.&lt;/p>
+&lt;p>Here is the place to record Ray&amp;rsquo;s thoughts and technical knowledge. You can contact him via the icons in the sidebar or mail to &lt;a class="link" href="mailto:ray007330@gmail.com" >ray007330@gmail.com&lt;/a>&lt;/p>
+&lt;p>&lt;code>CV:&lt;/code>&lt;/p></description></item><item><title>Archives</title><link>https://ray007330.github.io/archives/</link><pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate><guid>https://ray007330.github.io/archives/</guid><description/></item><item><title>Links</title><link>https://ray007330.github.io/links/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ray007330.github.io/links/</guid><description>&lt;p>To use this feature, add &lt;code>links&lt;/code> section to frontmatter.&lt;/p>
+&lt;p>This page&amp;rsquo;s frontmatter:&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;span class="lnt">3
+&lt;/span>&lt;span class="lnt">4
+&lt;/span>&lt;span class="lnt">5
+&lt;/span>&lt;span class="lnt">6
+&lt;/span>&lt;span class="lnt">7
+&lt;/span>&lt;span class="lnt">8
+&lt;/span>&lt;span class="lnt">9
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-yaml" data-lang="yaml">&lt;span class="line">&lt;span class="cl">&lt;span class="nt">links&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>- &lt;span class="nt">title&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">GitHub&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">description&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">GitHub is the world&amp;#39;s largest software development platform.&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">website&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">https://github.com&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">image&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>- &lt;span class="nt">title&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">TypeScript&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">description&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">website&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">https://www.typescriptlang.org&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">image&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">ts-logo-128.jpg&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>&lt;code>image&lt;/code> field accepts both local and external images.&lt;/p></description></item><item><title>Search</title><link>https://ray007330.github.io/search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ray007330.github.io/search/</guid><description/></item></channel></rss>
